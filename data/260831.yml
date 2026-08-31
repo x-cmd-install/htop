@@ -1,0 +1,61 @@
+about:
+  description: htop - an interactive process viewer
+  license: GPL-2.0
+  homepage: https://htop.dev/
+  head: e0dd9db
+  archived: false
+  latestVersion: 3.5.3
+  collectedAt: 2026-08-31T06:15:46Z
+timeline:
+  created: 2020-08-17
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-16
+popularity:
+  star: 8293
+  watcher: 63
+  fork: 631
+  release: 22
+  contributor: 241
+  pullRequest: 291
+  issue: 843
+language:
+  C: 1505138
+  M4: 58341
+  Roff: 33889
+  Lua: 17860
+  Makefile: 11752
+  Shell: 6254
+totalLine: 1633234
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 13
+    openPR: 19
+    closedIssue: 5
+    openIssue: 6
+    commit: 25
+  last90d:
+    since: 2026-06-02
+    release: 2
+    mergedPR: 26
+    openPR: 22
+    closedIssue: 10
+    openIssue: 9
+    commit: 50
+  last180d:
+    since: 2026-03-04
+    release: 4
+    mergedPR: 75
+    openPR: 29
+    closedIssue: 33
+    openIssue: 16
+    commit: 149
+  last360d:
+    since: 2025-09-05
+    release: 4
+    mergedPR: 145
+    openPR: 39
+    closedIssue: 58
+    openIssue: 40
+    commit: 305
