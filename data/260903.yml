@@ -1,11 +1,13 @@
 about:
-  description: htop - an interactive process viewer
+  description:
+  |
+    htop - an interactive process viewer
   license: GPL-2.0
   homepage: https://htop.dev/
   head: e0dd9db
   archived: false
   latestVersion: 3.5.3
-  collectedAt: 2026-09-03T05:10:55Z
+  collectedAt: 2026-09-03T22:37:22Z
 timeline:
   created: 2020-08-17
   lastCommit: 2026-08-30
@@ -25,7 +27,7 @@ language:
   Lua: 17860
   Makefile: 11752
   Shell: 6254
-totalLine: 1633234
+totalBytes: 1633234
 recent:
   last30d:
     since: 2026-08-04
