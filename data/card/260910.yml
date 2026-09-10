@@ -7,7 +7,7 @@ about:
   latestVersion: "3.5.3"
   latestRelease: "3.5.3"
   latestPrerelease: "3.1.0rc2"
-  collectedAt: 2026-09-10T20:27:18Z
+  collectedAt: 2026-09-10T23:19:04Z
 timeline:
   created: 2020-08-17
   lastCommit: 2026-09-07
@@ -88,7 +88,7 @@ total:
   commit: 3909
 ---
 path: /home/runner/.x-repo/github.com/htop-dev/htop
-collectedAt: 2026-09-10T20:27:21Z
+collectedAt: 2026-09-10T23:19:07Z
 loc:
   C:
     code: 31476
