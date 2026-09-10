@@ -7,7 +7,7 @@ about:
   latestVersion: "3.5.3"
   latestRelease: "3.5.3"
   latestPrerelease: "3.1.0rc2"
-  collectedAt: 2026-09-10T06:07:58Z
+  collectedAt: 2026-09-10T20:27:18Z
 timeline:
   created: 2020-08-17
   lastCommit: 2026-09-07
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-16
   lastPrerelease: 2021-09-07
 popularity:
-  star: 8320
+  star: 8321
   watcher: 64
   fork: 634
   release: 22
   contributor: 242
-  pullRequest: 1246
+  pullRequest: 1247
   issue: 845
 language:
   C: 1505307
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-11
     release: 1
     mergedPR: 7
-    openPR: 12
+    openPR: 13
     closedIssue: 6
     openIssue: 7
     commit: 16
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-12
     release: 2
     mergedPR: 18
-    openPR: 19
+    openPR: 20
     closedIssue: 8
     openIssue: 9
     commit: 38
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-12
     release: 2
     mergedPR: 25
-    openPR: 22
+    openPR: 23
     closedIssue: 11
     openIssue: 9
     commit: 51
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-14
     release: 4
     mergedPR: 75
-    openPR: 29
+    openPR: 30
     closedIssue: 34
     openIssue: 17
     commit: 150
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-15
     release: 4
     mergedPR: 145
-    openPR: 39
+    openPR: 40
     closedIssue: 58
     openIssue: 40
     commit: 307
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-20
     release: 6
     mergedPR: 230
-    openPR: 56
+    openPR: 57
     closedIssue: 125
     openIssue: 74
     commit: 736
 total:
   release: 22
   mergedPR: 953
-  openPR: 89
+  openPR: 90
   closedIssue: 575
   openIssue: 270
   commit: 3909
 ---
 path: /home/runner/.x-repo/github.com/htop-dev/htop
-collectedAt: 2026-09-10T06:08:00Z
+collectedAt: 2026-09-10T20:27:21Z
 loc:
   C:
     code: 31476
