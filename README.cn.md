@@ -48,22 +48,22 @@ x install htop
 
 ## 流行度
 
-- **Star**: 8,324 · **Fork**: 636 · **开放 issue**: 845 · **贡献者**: 242
+- **Star**: 8,325 · **Fork**: 637 · **开放 issue**: 845 · **贡献者**: 242
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 957 · **开放 PR**: 87 · **已关闭 issue**: 578 · **开放 issue**: 267 · **提交数**: 3924
+- **发布数**: 22 · **已合并 PR**: 957 · **开放 PR**: 89 · **已关闭 issue**: 578 · **开放 issue**: 267 · **提交数**: 3924
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 10 | 9 | 8 | 4 | 20 |
-| last60d | 2026-07-15 | 2 | 21 | 17 | 11 | 6 | 41 |
-| 90d | 2026-06-15 | 2 | 29 | 20 | 14 | 6 | 59 |
-| last180d | 2026-03-17 | 4 | 77 | 26 | 36 | 14 | 159 |
-| 360d | 2025-09-18 | 4 | 149 | 37 | 60 | 37 | 314 |
-| last720d | 2024-09-23 | 6 | 234 | 54 | 127 | 71 | 739 |
+| 30d | 2026-08-15 | 1 | 10 | 12 | 8 | 4 | 20 |
+| last60d | 2026-07-16 | 2 | 21 | 20 | 11 | 6 | 41 |
+| 90d | 2026-06-16 | 2 | 29 | 22 | 13 | 6 | 59 |
+| last180d | 2026-03-18 | 4 | 77 | 28 | 36 | 13 | 159 |
+| 360d | 2025-09-19 | 4 | 149 | 39 | 60 | 37 | 314 |
+| last720d | 2024-09-24 | 6 | 234 | 56 | 127 | 71 | 739 |
 
 ## Release 资产
 
@@ -71,25 +71,6 @@ x install htop
 |------|-----:|----------|
 | [htop-3.5.3.tar.xz](https://github.com/htop-dev/htop/releases/download/3.5.3/htop-3.5.3.tar.xz) | 464.5 KiB | `other` |
 | [htop-3.5.3.tar.xz.sha256](https://github.com/htop-dev/htop/releases/download/3.5.3/htop-3.5.3.tar.xz.sha256) | 84 B | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/htop) 上共有 **185** 个发行版报告此项目。**53** 个 ✅ 已是最新上游版本，**110** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `3.5.3` | ✅ latest |
-| Debian 14 | `3.5.3` | ✅ latest |
-| Debian 13 | `3.4.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.4.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `3.3.0` | ⚠️ outdated |
-| Arch | `3.5.3` | ✅ latest |
-| Homebrew | `3.5.3` | ✅ latest |
-| Fedora rawhide | `3.5.3` | ✅ latest |
-| Nix unstable | `3.5.3` | ✅ latest |
-| Void | `3.5.3` | ✅ latest |
-| Alpine edge | `3.5.3` | ✅ latest |
-| openSUSE Tumbleweed | `3.5.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -100,4 +81,4 @@ htop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:07:52Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:24:19Z._
