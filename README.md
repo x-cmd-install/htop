@@ -14,13 +14,13 @@ x install htop
 
 ## Code insight
 
-Total: **39,217** lines of code across **287** files in the top 5 languages.
+Total: **39,199** lines of code across **287** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 31,802 | 2,397 | 6,228 | 132 |
+| C | 31,779 | 2,397 | 6,227 | 132 |
 | CHeader | 4,942 | 1,255 | 2,108 | 151 |
-| Autoconf | 1,070 | 0 | 17 | 2 |
+| Autoconf | 1,075 | 0 | 17 | 2 |
 | Lua | 607 | 13 | 67 | 1 |
 | Automake | 475 | 19 | 54 | 1 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.5.3` (2026-08-16)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-15
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,327 · **Forks**: 637 · **Open issues**: 845 · **Contributors**: 242
+- **Stars**: 8,329 · **Forks**: 637 · **Open issues**: 845 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 957 · **Open PRs**: 90 · **Closed issues**: 578 · **Open issues**: 267 · **Commits**: 3924
+- **Releases**: 22 · **Merged PRs**: 959 · **Open PRs**: 87 · **Closed issues**: 578 · **Open issues**: 267 · **Commits**: 3929
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 10 | 12 | 7 | 4 | 20 |
-| last60d | 2026-07-17 | 2 | 21 | 21 | 11 | 6 | 41 |
-| 90d | 2026-06-17 | 2 | 28 | 23 | 13 | 6 | 59 |
-| last180d | 2026-03-19 | 4 | 77 | 29 | 35 | 13 | 159 |
-| 360d | 2025-09-20 | 4 | 149 | 40 | 60 | 36 | 314 |
-| last720d | 2024-09-25 | 6 | 233 | 57 | 127 | 71 | 739 |
+| 30d | 2026-08-17 | 0 | 12 | 9 | 6 | 4 | 23 |
+| last60d | 2026-07-18 | 2 | 21 | 18 | 11 | 5 | 44 |
+| 90d | 2026-06-18 | 2 | 29 | 20 | 13 | 6 | 62 |
+| last180d | 2026-03-20 | 4 | 79 | 26 | 35 | 13 | 162 |
+| 360d | 2025-09-21 | 4 | 151 | 37 | 60 | 36 | 317 |
+| last720d | 2024-09-26 | 6 | 235 | 54 | 127 | 71 | 744 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:30:00Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:23:07Z._
