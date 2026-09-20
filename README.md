@@ -4,7 +4,7 @@
 
 htop - an interactive process viewer
 
-![htop](https://repo.x-cmd.io/htop.svg)
+[![x-cmd/install — htop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/htop.svg)](https://x-cmd.com/install/htop)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,330 · **Forks**: 638 · **Open issues**: 845 · **Contributors**: 242
+- **Stars**: 8,339 · **Forks**: 640 · **Open issues**: 846 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 960 · **Open PRs**: 86 · **Closed issues**: 578 · **Open issues**: 267 · **Commits**: 3932
+- **Releases**: 22 · **Merged PRs**: 960 · **Open PRs**: 93 · **Closed issues**: 578 · **Open issues**: 268 · **Commits**: 3932
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 11 | 6 | 5 | 3 | 25 |
-| last60d | 2026-07-20 | 1 | 22 | 17 | 11 | 5 | 46 |
-| 90d | 2026-06-20 | 2 | 30 | 19 | 13 | 6 | 64 |
-| last180d | 2026-03-22 | 4 | 80 | 25 | 35 | 13 | 164 |
-| 360d | 2025-09-23 | 4 | 151 | 36 | 60 | 35 | 319 |
-| last720d | 2024-09-28 | 6 | 236 | 53 | 127 | 70 | 747 |
+| 30d | 2026-08-21 | 0 | 10 | 14 | 4 | 4 | 12 |
+| last60d | 2026-07-22 | 1 | 22 | 25 | 10 | 6 | 45 |
+| 90d | 2026-06-22 | 2 | 28 | 27 | 13 | 7 | 55 |
+| last180d | 2026-03-24 | 4 | 80 | 33 | 35 | 14 | 147 |
+| 360d | 2025-09-25 | 4 | 149 | 44 | 60 | 36 | 318 |
+| last720d | 2024-09-30 | 6 | 236 | 60 | 127 | 71 | 747 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:13:24Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:10:25Z._
