@@ -4,7 +4,7 @@
 
 htop - an interactive process viewer
 
-[![x-cmd/install — htop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/htop.svg)](https://x-cmd.com/install/htop)
+[![x-cmd/install — htop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/htop.svg)](https://x-cmd.com/install/htop)
 
 ## Install
 
@@ -14,19 +14,19 @@ x install htop
 
 ## Code insight
 
-Total: **39,207** lines of code across **287** files in the top 5 languages.
+Total: **39,232** lines of code across **287** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 31,784 | 2,403 | 6,228 | 132 |
 | CHeader | 4,945 | 1,257 | 2,109 | 151 |
-| Autoconf | 1,075 | 0 | 17 | 2 |
+| Autoconf | 1,100 | 0 | 17 | 2 |
 | Lua | 607 | 13 | 67 | 1 |
 | Automake | 475 | 19 | 54 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.5.3` (2026-08-16)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,340 · **Forks**: 640 · **Open issues**: 846 · **Contributors**: 243
+- **Stars**: 8,340 · **Forks**: 641 · **Open issues**: 846 · **Contributors**: 244
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 965 · **Open PRs**: 88 · **Closed issues**: 578 · **Open issues**: 268 · **Commits**: 3943
+- **Releases**: 22 · **Merged PRs**: 966 · **Open PRs**: 88 · **Closed issues**: 579 · **Open issues**: 267 · **Commits**: 3946
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 13 | 8 | 3 | 2 | 18 |
-| last60d | 2026-07-24 | 1 | 27 | 20 | 10 | 6 | 51 |
-| 90d | 2026-06-24 | 2 | 31 | 21 | 12 | 7 | 61 |
-| last180d | 2026-03-26 | 4 | 84 | 28 | 34 | 14 | 153 |
-| 360d | 2025-09-27 | 4 | 154 | 39 | 60 | 35 | 324 |
-| last720d | 2024-10-02 | 6 | 241 | 55 | 127 | 70 | 758 |
+| 30d | 2026-08-24 | 0 | 14 | 8 | 4 | 1 | 20 |
+| last60d | 2026-07-25 | 1 | 27 | 20 | 11 | 5 | 53 |
+| 90d | 2026-06-25 | 2 | 32 | 21 | 13 | 6 | 63 |
+| last180d | 2026-03-27 | 4 | 83 | 28 | 33 | 13 | 155 |
+| 360d | 2025-09-28 | 4 | 155 | 39 | 61 | 34 | 326 |
+| last720d | 2024-10-03 | 6 | 242 | 55 | 128 | 68 | 761 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:18:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:31:46Z._
