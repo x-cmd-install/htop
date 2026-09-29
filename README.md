@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 14 | 7 | 3 | 1 | 18 |
-| last60d | 2026-07-30 | 1 | 27 | 20 | 10 | 5 | 52 |
-| 90d | 2026-06-30 | 2 | 33 | 21 | 12 | 6 | 63 |
-| last180d | 2026-04-01 | 4 | 78 | 28 | 33 | 12 | 136 |
-| 360d | 2025-10-03 | 4 | 156 | 39 | 59 | 34 | 323 |
-| last720d | 2024-10-08 | 6 | 242 | 55 | 127 | 68 | 762 |
+| 30d | 2026-08-30 | 0 | 10 | 7 | 2 | 1 | 18 |
+| last60d | 2026-07-31 | 1 | 27 | 20 | 10 | 5 | 52 |
+| 90d | 2026-07-01 | 2 | 32 | 20 | 12 | 6 | 63 |
+| last180d | 2026-04-02 | 4 | 78 | 28 | 33 | 12 | 136 |
+| 360d | 2025-10-04 | 4 | 156 | 39 | 59 | 34 | 323 |
+| last720d | 2024-10-09 | 6 | 241 | 55 | 127 | 68 | 762 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:30:13Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:53:27Z._
