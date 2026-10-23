@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,409 · **Forks**: 649 · **Open issues**: 852 · **Contributors**: 248
+- **Stars**: 8,410 · **Forks**: 649 · **Open issues**: 852 · **Contributors**: 248
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 3 | 4 | 1 | 5 | 9 |
-| last60d | 2026-08-23 | 0 | 18 | 10 | 5 | 6 | 36 |
-| 90d | 2026-07-24 | 1 | 32 | 22 | 12 | 10 | 64 |
-| last180d | 2026-04-25 | 3 | 68 | 27 | 27 | 12 | 126 |
-| 360d | 2025-10-27 | 4 | 148 | 38 | 60 | 36 | 312 |
-| last720d | 2024-11-01 | 6 | 242 | 56 | 124 | 72 | 774 |
+| 30d | 2026-09-23 | 0 | 3 | 4 | 1 | 5 | 9 |
+| last60d | 2026-08-24 | 0 | 18 | 10 | 5 | 6 | 36 |
+| 90d | 2026-07-25 | 1 | 31 | 22 | 12 | 10 | 64 |
+| last180d | 2026-04-26 | 3 | 67 | 27 | 27 | 12 | 126 |
+| 360d | 2025-10-28 | 4 | 148 | 38 | 60 | 36 | 312 |
+| last720d | 2024-11-02 | 6 | 242 | 56 | 124 | 71 | 774 |
 
 ## Release assets
 
@@ -71,6 +71,25 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [htop-3.5.3.tar.xz](https://github.com/htop-dev/htop/releases/download/3.5.3/htop-3.5.3.tar.xz) | 464.5 KiB | `other` |
 | [htop-3.5.3.tar.xz.sha256](https://github.com/htop-dev/htop/releases/download/3.5.3/htop-3.5.3.tar.xz.sha256) | 84 B | `other` |
+
+## Distribution status
+
+Reported by **185** distros on [repology.org](https://repology.org/project/htop). **62** are ✅ on the latest upstream release, **99** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.5.3` | ✅ latest |
+| Debian 14 | `3.5.3` | ✅ latest |
+| Debian 13 | `3.4.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.4.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.3.0` | ⚠️ outdated |
+| Arch | `3.5.3` | ✅ latest |
+| Homebrew | `3.5.3` | ✅ latest |
+| Fedora rawhide | `3.5.3` | ✅ latest |
+| Nix unstable | `3.5.3` | ✅ latest |
+| Void | `3.5.3` | ✅ latest |
+| Alpine edge | `3.5.3` | ✅ latest |
+| openSUSE Tumbleweed | `3.5.3` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:47:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:53:16Z._
