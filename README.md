@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,412 · **Forks**: 651 · **Open issues**: 852 · **Contributors**: 248
+- **Stars**: 8,416 · **Forks**: 653 · **Open issues**: 852 · **Contributors**: 248
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 970 · **Open PRs**: 91 · **Closed issues**: 582 · **Open issues**: 270 · **Commits**: 3961
+- **Releases**: 22 · **Merged PRs**: 970 · **Open PRs**: 92 · **Closed issues**: 582 · **Open issues**: 270 · **Commits**: 3961
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 3 | 5 | 1 | 5 | 9 |
-| last60d | 2026-08-25 | 0 | 18 | 11 | 4 | 6 | 36 |
-| 90d | 2026-07-26 | 1 | 31 | 23 | 12 | 10 | 64 |
-| last180d | 2026-04-27 | 3 | 67 | 28 | 27 | 12 | 126 |
-| 360d | 2025-10-29 | 4 | 148 | 39 | 60 | 36 | 312 |
-| last720d | 2024-11-03 | 6 | 242 | 57 | 124 | 71 | 774 |
+| 30d | 2026-09-25 | 0 | 3 | 6 | 1 | 5 | 7 |
+| last60d | 2026-08-26 | 0 | 18 | 12 | 4 | 6 | 28 |
+| 90d | 2026-07-27 | 1 | 31 | 24 | 12 | 10 | 64 |
+| last180d | 2026-04-28 | 3 | 67 | 29 | 27 | 12 | 119 |
+| 360d | 2025-10-30 | 4 | 148 | 40 | 60 | 36 | 305 |
+| last720d | 2024-11-04 | 6 | 242 | 58 | 124 | 71 | 774 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:39:34Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:38:23Z._
