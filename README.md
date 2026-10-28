@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,423 · **Forks**: 655 · **Open issues**: 852 · **Contributors**: 248
+- **Stars**: 8,429 · **Forks**: 655 · **Open issues**: 852 · **Contributors**: 248
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 2 | 8 | 1 | 5 | 7 |
-| last60d | 2026-08-28 | 0 | 17 | 13 | 4 | 6 | 28 |
-| 90d | 2026-07-29 | 1 | 30 | 26 | 12 | 10 | 64 |
-| last180d | 2026-04-30 | 2 | 66 | 31 | 26 | 12 | 119 |
-| 360d | 2025-11-01 | 4 | 147 | 41 | 59 | 36 | 305 |
-| last720d | 2024-11-06 | 6 | 242 | 60 | 124 | 71 | 774 |
+| 30d | 2026-09-28 | 0 | 2 | 8 | 1 | 5 | 7 |
+| last60d | 2026-08-29 | 0 | 17 | 13 | 4 | 6 | 28 |
+| 90d | 2026-07-30 | 1 | 30 | 26 | 11 | 10 | 64 |
+| last180d | 2026-05-01 | 2 | 65 | 31 | 26 | 12 | 119 |
+| 360d | 2025-11-02 | 4 | 147 | 41 | 59 | 36 | 305 |
+| last720d | 2024-11-07 | 6 | 242 | 60 | 124 | 71 | 774 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **186** distros on [repology.org](https://repology.org/project/htop). **63** are ✅ on the latest upstream release, **99** are ⚠️ on an older version.
+Reported by **186** distros on [repology.org](https://repology.org/project/htop). **64** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:12:47Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:51:38Z._
