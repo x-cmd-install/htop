@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,434 · **Forks**: 659 · **Open issues**: 854 · **Contributors**: 248
+- **Stars**: 8,434 · **Forks**: 660 · **Open issues**: 854 · **Contributors**: 248
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 970 · **Open PRs**: 95 · **Closed issues**: 584 · **Open issues**: 270 · **Commits**: 3961
+- **Releases**: 22 · **Merged PRs**: 970 · **Open PRs**: 95 · **Closed issues**: 585 · **Open issues**: 269 · **Commits**: 3961
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 2 | 9 | 3 | 4 | 7 |
-| last60d | 2026-09-01 | 0 | 12 | 14 | 5 | 5 | 28 |
-| 90d | 2026-08-02 | 1 | 30 | 27 | 13 | 9 | 64 |
-| last180d | 2026-05-04 | 2 | 62 | 32 | 26 | 12 | 119 |
-| 360d | 2025-11-05 | 4 | 141 | 42 | 60 | 36 | 305 |
-| last720d | 2024-11-10 | 6 | 242 | 61 | 126 | 71 | 774 |
+| 30d | 2026-10-02 | 0 | 2 | 9 | 4 | 3 | 6 |
+| last60d | 2026-09-02 | 0 | 12 | 14 | 6 | 4 | 25 |
+| 90d | 2026-08-03 | 1 | 28 | 27 | 14 | 8 | 60 |
+| last180d | 2026-05-05 | 2 | 61 | 32 | 27 | 11 | 113 |
+| 360d | 2025-11-06 | 4 | 141 | 42 | 61 | 35 | 295 |
+| last720d | 2024-11-11 | 6 | 241 | 61 | 127 | 70 | 774 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **186** distros on [repology.org](https://repology.org/project/htop). **64** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
+Reported by **180** distros on [repology.org](https://repology.org/project/htop). **64** are ✅ on the latest upstream release, **98** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:43:46Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:10:04Z._
