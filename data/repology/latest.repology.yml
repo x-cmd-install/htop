@@ -1,14 +1,25 @@
-- repo: parabola
-  subrepo: extra
+- repo: amazon_2
   srcname: htop
-  binname: htop
   visiblename: htop
-  version: 3.5.3
-  origversion: 3.5.3-1
-  status: newest
+  version: 2.0.2
+  origversion: 2.0.2-1.amzn2.0.2
+  status: outdated
   summary: Interactive process viewer
   licenses:
-    - GPL
+    - GPL+
+  categories:
+    - Applications/System
+- repo: amazon_2
+  srcname: htop
+  visiblename: htop
+  version: 2.0.2
+  origversion: 2.0.2-1.amzn2
+  status: outdated
+  summary: Interactive process viewer
+  licenses:
+    - GPL+
+  categories:
+    - Applications/System
 - repo: pardus_21
   subrepo: main
   srcname: htop
@@ -24,67 +35,95 @@
     - jackyf@debian.org
   categories:
     - utils
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: htop
-  binnames:
-    - htop
-  visiblename: htop
-  version: 3.4.1
-  origversion: 3.4.1-5
-  status: outdated
-  maintainers:
-    - dlange@debian.org
-    - ginggs@debian.org
-    - jackyf@debian.org
-  categories:
-    - utils
-- repo: parrot
-  subrepo: parrot/main
-  srcname: htop
-  binnames:
-    - htop
-  visiblename: htop
-  version: 3.4.1
-  origversion: 3.4.1-5
-  status: outdated
-  maintainers:
-    - dlange@debian.org
-    - ginggs@debian.org
-    - jackyf@debian.org
-  categories:
-    - utils
-- repo: pclinuxos
+- repo: starkos
+  subrepo: main
   srcname: htop
   visiblename: htop
   version: 3.5.3
-  origversion: 3.5.3-1pclos2026
+  origversion: 3.5.3-2
   status: newest
-  summary: Interactive text-mode process viewer for Linux
-  categories:
-    - Monitoring
-- repo: slackwarearm_15_0
-  subrepo: slackware
-  binname: htop
+  summary: Interactive process viewer
+  maintainers:
+    - starkos@disroot.org
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: htop
+  binnames:
+    - htop
   visiblename: htop
-  version: 3.1.2
-  origversion: null
+  version: 3.0.5
+  origversion: 3.0.5-7
   status: outdated
   maintainers:
-    - volkerdi@slackware.com
-- repo: nix_stable_25_11
+    - dlange@debian.org
+    - ginggs@debian.org
+    - jackyf@debian.org
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: htop
+  binnames:
+    - htop
+  visiblename: htop
+  version: 3.5.3
+  origversion: 3.5.3-1
+  status: newest
+  maintainers:
+    - dlange@debian.org
+    - ginggs@debian.org
+    - jackyf@debian.org
+  categories:
+    - utils
+- repo: amazon_1
+  subrepo: main
   srcname: htop
   visiblename: htop
-  version: 3.4.1
+  version: 1.0.1
+  origversion: 1.0.1-2.3.amzn1
+  status: outdated
+  summary: Interactive process viewer
+  licenses:
+    - GPL+
+  categories:
+    - Applications/System
+- repo: nix_stable_25_05
+  srcname: htop-vim
+  visiblename: htop-vim
+  version: 3.4.0
   origversion: null
+  status: outdated
+  summary: Interactive process viewer, with vim-style keybindings
+  maintainers:
+    - thiagokokada@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_18
+  subrepo: main
+  srcname: htop
+  binname: htop
+  visiblename: htop
+  version: 3.2.2
+  origversion: 3.2.2-r1
   status: outdated
   summary: Interactive process viewer
   maintainers:
-    - rob.vermaas@gmail.com
-    - ricky@elrod.me
-    - sandro.jaeckel@gmail.com
+    - clandmeter@alpinelinux.org
   licenses:
-    - GPL-2.0-only
+    - GPL-2.0-or-later
+- repo: alpine_3_18
+  subrepo: main
+  srcname: htop
+  binname: htop-doc
+  visiblename: htop-doc
+  version: 3.2.2
+  origversion: 3.2.2-r1
+  status: outdated
+  summary: Interactive process viewer (documentation)
+  maintainers:
+    - clandmeter@alpinelinux.org
+  licenses:
+    - GPL-2.0-or-later
 - repo: adelie_current
   subrepo: user
   srcname: htop
@@ -159,32 +198,6 @@
     - clandmeter@alpinelinux.org
   licenses:
     - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: main
-  srcname: htop
-  binname: htop
-  visiblename: htop
-  version: 3.2.2
-  origversion: 3.2.2-r1
-  status: outdated
-  summary: Interactive process viewer
-  maintainers:
-    - clandmeter@alpinelinux.org
-  licenses:
-    - GPL-2.0-or-later
-- repo: alpine_3_18
-  subrepo: main
-  srcname: htop
-  binname: htop-doc
-  visiblename: htop-doc
-  version: 3.2.2
-  origversion: 3.2.2-r1
-  status: outdated
-  summary: Interactive process viewer (documentation)
-  maintainers:
-    - clandmeter@alpinelinux.org
-  licenses:
-    - GPL-2.0-or-later
 - repo: alpine_3_19
   subrepo: main
   srcname: htop
@@ -328,6 +341,18 @@
     - miyopan@e.email
   licenses:
     - GPL-2.0-or-later
+- repo: aur
+  srcname: htop-solarized
+  binname: htop-solarized
+  visiblename: htop-solarized
+  version: 3.5.3
+  origversion: 3.5.3-1
+  status: newest
+  summary: Interactive process viewer with solarized colorscheme patch
+  maintainers:
+    - zootboy@aur
+  licenses:
+    - GPL
 - repo: alpine_3_24
   subrepo: main
   srcname: htop
@@ -401,40 +426,6 @@
     - GPLv2+
   categories:
     - Monitoring
-- repo: amazon_1
-  subrepo: main
-  srcname: htop
-  visiblename: htop
-  version: 1.0.1
-  origversion: 1.0.1-2.3.amzn1
-  status: outdated
-  summary: Interactive process viewer
-  licenses:
-    - GPL+
-  categories:
-    - Applications/System
-- repo: amazon_2
-  srcname: htop
-  visiblename: htop
-  version: 2.0.2
-  origversion: 2.0.2-1.amzn2.0.2
-  status: outdated
-  summary: Interactive process viewer
-  licenses:
-    - GPL+
-  categories:
-    - Applications/System
-- repo: amazon_2
-  srcname: htop
-  visiblename: htop
-  version: 2.0.2
-  origversion: 2.0.2-1.amzn2
-  status: outdated
-  summary: Interactive process viewer
-  licenses:
-    - GPL+
-  categories:
-    - Applications/System
 - repo: aosc
   srcname: app-admin/htop
   binname: htop
@@ -536,18 +527,21 @@
     - zhimsel@aur
   licenses:
     - GPL-2.0-or-later
-- repo: aur
-  srcname: htop-solarized
-  binname: htop-solarized
-  visiblename: htop-solarized
-  version: 3.5.3
-  origversion: 3.5.3-1
-  status: newest
-  summary: Interactive process viewer with solarized colorscheme patch
+- repo: deepin_25
+  subrepo: main
+  srcname: htop
+  binnames:
+    - htop
+  visiblename: htop
+  version: 3.2.2
+  origversion: 3.2.2-2
+  status: outdated
   maintainers:
-    - zootboy@aur
-  licenses:
-    - GPL
+    - dlange@debian.org
+    - ginggs@debian.org
+    - jackyf@debian.org
+  categories:
+    - utils
 - repo: aur
   srcname: htop-vim
   binname: htop-vim
@@ -749,51 +743,6 @@
     - jackyf@debian.org
   categories:
     - utils
-- repo: deepin_25
-  subrepo: main
-  srcname: htop
-  binnames:
-    - htop
-  visiblename: htop
-  version: 3.2.2
-  origversion: 3.2.2-2
-  status: outdated
-  maintainers:
-    - dlange@debian.org
-    - ginggs@debian.org
-    - jackyf@debian.org
-  categories:
-    - utils
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: htop
-  binnames:
-    - htop
-  visiblename: htop
-  version: 3.0.5
-  origversion: 3.0.5-7
-  status: outdated
-  maintainers:
-    - dlange@debian.org
-    - ginggs@debian.org
-    - jackyf@debian.org
-  categories:
-    - utils
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: htop
-  binnames:
-    - htop
-  visiblename: htop
-  version: 3.5.3
-  origversion: 3.5.3-1
-  status: newest
-  maintainers:
-    - dlange@debian.org
-    - ginggs@debian.org
-    - jackyf@debian.org
-  categories:
-    - utils
 - repo: epel_6
   srcname: htop
   visiblename: htop
@@ -973,6 +922,17 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
+- repo: nix_stable_24_11
+  srcname: htop-vim
+  visiblename: htop-vim-unstable
+  version: "2023-02-16"
+  origversion: null
+  status: untrusted
+  summary: Interactive process viewer for Linux, with vim-style keybindings
+  maintainers:
+    - thiagokokada@gmail.com
+  licenses:
+    - GPL-2.0-only
 - repo: fedora_44
   subrepo: release
   srcname: htop
@@ -1133,6 +1093,19 @@
     - GPL-2+
   categories:
     - sys-process
+- repo: nix_stable_25_05
+  srcname: htop
+  visiblename: htop
+  version: 3.4.1
+  origversion: null
+  status: outdated
+  summary: Interactive process viewer
+  maintainers:
+    - rob.vermaas@gmail.com
+    - ricky@elrod.me
+    - sandro.jaeckel@gmail.com
+  licenses:
+    - GPL-2.0-only
 - repo: liguros_stable
   srcname: sys-process/htop
   visiblename: sys-process/htop
@@ -1159,17 +1132,6 @@
     - GPL-2+
   categories:
     - sys-process
-- repo: openindiana
-  subrepo: hipster
-  srcname: htop
-  binname: diagnostic/htop
-  visiblename: htop
-  version: 3.5.1
-  origversion: null
-  status: legacy
-  summary: htop - an interactive process viewer for Unix
-  categories:
-    - Applications/System Utilities
 - repo: liguros_develop
   srcname: sys-process/htop
   visiblename: sys-process/htop
@@ -1260,9 +1222,9 @@
   srcname: htop
   binname: htop
   visiblename: htop
-  version: 3.5.3
-  origversion: 3.5.3-1
-  status: newest
+  version: 3.2.2
+  origversion: 3.2.2-1
+  status: outdated
   summary: Interactive process viewer
   licenses:
     - GPL
@@ -1271,9 +1233,9 @@
   srcname: htop
   binname: htop
   visiblename: htop
-  version: 3.5.3
-  origversion: 3.5.3-1
-  status: newest
+  version: 3.2.2
+  origversion: 3.2.2-1
+  status: outdated
   summary: Interactive process viewer
   licenses:
     - GPL
@@ -1353,18 +1315,7 @@
     - sandro.jaeckel@gmail.com
   licenses:
     - GPL-2.0-only
-- repo: nix_stable_24_11
-  srcname: htop-vim
-  visiblename: htop-vim-unstable
-  version: "2023-02-16"
-  origversion: null
-  status: untrusted
-  summary: Interactive process viewer for Linux, with vim-style keybindings
-  maintainers:
-    - thiagokokada@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_05
+- repo: nix_stable_25_11
   srcname: htop
   visiblename: htop
   version: 3.4.1
@@ -1375,17 +1326,6 @@
     - rob.vermaas@gmail.com
     - ricky@elrod.me
     - sandro.jaeckel@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_05
-  srcname: htop-vim
-  visiblename: htop-vim
-  version: 3.4.0
-  origversion: null
-  status: outdated
-  summary: Interactive process viewer, with vim-style keybindings
-  maintainers:
-    - thiagokokada@gmail.com
   licenses:
     - GPL-2.0-only
 - repo: nix_stable_25_11
@@ -1570,6 +1510,17 @@
     - GPLv2
   categories:
     - Unspecified
+- repo: openindiana
+  subrepo: hipster
+  srcname: htop
+  binname: diagnostic/htop
+  visiblename: htop
+  version: 3.5.1
+  origversion: null
+  status: legacy
+  summary: htop - an interactive process viewer for Unix
+  categories:
+    - Applications/System Utilities
 - repo: openindiana
   subrepo: hipster
   srcname: htop
@@ -1775,6 +1726,56 @@
   origversion: 3.5.2-1
   status: outdated
   summary: htop is a cross-platform interactive process viewer.
+- repo: parabola
+  subrepo: extra
+  srcname: htop
+  binname: htop
+  visiblename: htop
+  version: 3.5.3
+  origversion: 3.5.3-1
+  status: newest
+  summary: Interactive process viewer
+  licenses:
+    - GPL
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: htop
+  binnames:
+    - htop
+  visiblename: htop
+  version: 3.4.1
+  origversion: 3.4.1-5
+  status: outdated
+  maintainers:
+    - dlange@debian.org
+    - ginggs@debian.org
+    - jackyf@debian.org
+  categories:
+    - utils
+- repo: parrot
+  subrepo: parrot/main
+  srcname: htop
+  binnames:
+    - htop
+  visiblename: htop
+  version: 3.4.1
+  origversion: 3.4.1-5
+  status: outdated
+  maintainers:
+    - dlange@debian.org
+    - ginggs@debian.org
+    - jackyf@debian.org
+  categories:
+    - utils
+- repo: pclinuxos
+  srcname: htop
+  visiblename: htop
+  version: 3.5.3
+  origversion: 3.5.3-1pclos2026
+  status: newest
+  summary: Interactive text-mode process viewer for Linux
+  categories:
+    - Monitoring
 - repo: pisi_main
   subrepo: main
   srcname: util/admin/htop
@@ -1829,7 +1830,7 @@
   srcname: htop
   visiblename: htop
   version: 3.5.3
-  origversion: 3.5.3-1
+  origversion: 3.5.3-2
   status: newest
 - repo: ptxdist
   srcname: htop
@@ -2024,6 +2025,15 @@
   status: newest
   maintainers:
     - volkerdi@slackware.com
+- repo: slackwarearm_15_0
+  subrepo: slackware
+  binname: htop
+  visiblename: htop
+  version: 3.1.2
+  origversion: null
+  status: outdated
+  maintainers:
+    - volkerdi@slackware.com
 - repo: solus
   srcname: htop
   binname: htop
@@ -2084,16 +2094,6 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
-- repo: starkos
-  subrepo: main
-  srcname: htop
-  visiblename: htop
-  version: 3.5.3
-  origversion: 3.5.3-2
-  status: newest
-  summary: Interactive process viewer
-  maintainers:
-    - starkos@disroot.org
 - repo: t2
   srcname: htop
   visiblename: htop
