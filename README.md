@@ -14,11 +14,11 @@ x install htop
 
 ## Code insight
 
-Total: **39,398** lines of code across **287** files in the top 5 languages.
+Total: **39,399** lines of code across **287** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 31,936 | 2,424 | 6,248 | 132 |
+| C | 31,937 | 2,425 | 6,248 | 132 |
 | CHeader | 4,959 | 1,262 | 2,115 | 151 |
 | Autoconf | 1,100 | 0 | 17 | 2 |
 | Lua | 607 | 13 | 67 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.5.3` (2026-08-16)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-04
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,440 · **Forks**: 661 · **Open issues**: 853 · **Contributors**: 249
+- **Stars**: 8,445 · **Forks**: 660 · **Open issues**: 853 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 971 · **Open PRs**: 95 · **Closed issues**: 585 · **Open issues**: 268 · **Commits**: 3963
+- **Releases**: 22 · **Merged PRs**: 972 · **Open PRs**: 95 · **Closed issues**: 585 · **Open issues**: 268 · **Commits**: 3965
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 3 | 8 | 3 | 3 | 7 |
-| last60d | 2026-09-05 | 0 | 13 | 14 | 4 | 4 | 26 |
-| 90d | 2026-08-06 | 1 | 29 | 20 | 13 | 8 | 61 |
-| last180d | 2026-05-08 | 2 | 59 | 32 | 23 | 11 | 114 |
-| 360d | 2025-11-09 | 4 | 141 | 42 | 60 | 35 | 296 |
-| last720d | 2024-11-14 | 6 | 242 | 61 | 125 | 70 | 776 |
+| 30d | 2026-10-06 | 0 | 4 | 8 | 3 | 3 | 8 |
+| last60d | 2026-09-06 | 0 | 14 | 14 | 4 | 4 | 27 |
+| 90d | 2026-08-07 | 1 | 30 | 20 | 13 | 8 | 62 |
+| last180d | 2026-05-09 | 2 | 60 | 32 | 22 | 11 | 115 |
+| 360d | 2025-11-10 | 4 | 141 | 42 | 60 | 34 | 297 |
+| last720d | 2024-11-15 | 6 | 243 | 61 | 125 | 69 | 778 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:36:39Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:53Z._
