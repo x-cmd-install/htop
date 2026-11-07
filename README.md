@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,445 · **Forks**: 659 · **Open issues**: 854 · **Contributors**: 250
+- **Stars**: 8,442 · **Forks**: 658 · **Open issues**: 854 · **Contributors**: 250
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 4 | 8 | 3 | 3 | 8 |
-| last60d | 2026-09-07 | 0 | 14 | 16 | 4 | 5 | 27 |
-| 90d | 2026-08-08 | 1 | 30 | 22 | 13 | 9 | 62 |
-| last180d | 2026-05-10 | 2 | 60 | 33 | 22 | 12 | 115 |
-| 360d | 2025-11-11 | 4 | 139 | 44 | 60 | 35 | 297 |
-| last720d | 2024-11-16 | 6 | 243 | 63 | 125 | 70 | 778 |
+| 30d | 2026-10-08 | 0 | 4 | 8 | 3 | 3 | 8 |
+| last60d | 2026-09-08 | 0 | 14 | 16 | 4 | 5 | 27 |
+| 90d | 2026-08-09 | 1 | 29 | 22 | 13 | 9 | 62 |
+| last180d | 2026-05-11 | 2 | 60 | 33 | 22 | 12 | 115 |
+| 360d | 2025-11-12 | 4 | 139 | 44 | 60 | 35 | 297 |
+| last720d | 2024-11-17 | 6 | 243 | 63 | 125 | 69 | 778 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **180** distros on [repology.org](https://repology.org/project/htop). **62** are ✅ on the latest upstream release, **100** are ⚠️ on an older version.
+Reported by **180** distros on [repology.org](https://repology.org/project/htop). **65** are ✅ on the latest upstream release, **97** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:51:54Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:13:12Z._
