@@ -30,8 +30,8 @@ Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,459 · **Forks**: 663 · **Open issues**: 856 · **Contributors**: 250
+- **Stars**: 8,462 · **Forks**: 664 · **Open issues**: 857 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 972 · **Open PRs**: 101 · **Closed issues**: 586 · **Open issues**: 270 · **Commits**: 3967
+- **Releases**: 22 · **Merged PRs**: 972 · **Open PRs**: 103 · **Closed issues**: 587 · **Open issues**: 270 · **Commits**: 3967
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 11 | 1 | 4 | 4 |
-| last60d | 2026-09-17 | 0 | 11 | 18 | 4 | 7 | 13 |
-| 90d | 2026-08-18 | 0 | 25 | 24 | 10 | 11 | 40 |
-| last180d | 2026-05-20 | 2 | 52 | 37 | 21 | 14 | 104 |
-| 360d | 2025-11-21 | 4 | 137 | 48 | 59 | 34 | 289 |
-| last720d | 2024-11-26 | 6 | 243 | 67 | 126 | 70 | 780 |
+| 30d | 2026-10-20 | 0 | 2 | 13 | 2 | 4 | 4 |
+| last60d | 2026-09-20 | 0 | 5 | 18 | 4 | 7 | 13 |
+| 90d | 2026-08-21 | 0 | 22 | 24 | 9 | 10 | 40 |
+| last180d | 2026-05-23 | 2 | 52 | 39 | 22 | 14 | 104 |
+| 360d | 2025-11-24 | 4 | 135 | 50 | 60 | 34 | 289 |
+| last720d | 2024-11-29 | 6 | 243 | 69 | 127 | 70 | 780 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **179** distros on [repology.org](https://repology.org/project/htop). **65** are ✅ on the latest upstream release, **96** are ⚠️ on an older version.
+Reported by **179** distros on [repology.org](https://repology.org/project/htop). **66** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **179** distros on [repology.org](https://repology.org/project/htop)
 | Ubuntu 26.04 LTS | `3.4.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `3.3.0` | ⚠️ outdated |
 | Arch | `3.5.3` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `3.5.3` | ✅ latest |
 | Fedora rawhide | `3.5.3` | ✅ latest |
 | Nix unstable | `3.5.3` | ✅ latest |
 | Void | `3.5.3` | ✅ latest |
@@ -100,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:28:02Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:21:58Z._

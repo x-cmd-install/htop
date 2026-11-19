@@ -30,8 +30,8 @@ x install htop
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
@@ -48,22 +48,22 @@ x install htop
 
 ## 流行度
 
-- **Star**: 8,459 · **Fork**: 663 · **开放 issue**: 856 · **贡献者**: 250
+- **Star**: 8,462 · **Fork**: 664 · **开放 issue**: 857 · **贡献者**: 250
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 972 · **开放 PR**: 101 · **已关闭 issue**: 586 · **开放 issue**: 270 · **提交数**: 3967
+- **发布数**: 22 · **已合并 PR**: 972 · **开放 PR**: 103 · **已关闭 issue**: 587 · **开放 issue**: 270 · **提交数**: 3967
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 11 | 1 | 4 | 4 |
-| last60d | 2026-09-17 | 0 | 11 | 18 | 4 | 7 | 13 |
-| 90d | 2026-08-18 | 0 | 25 | 24 | 10 | 11 | 40 |
-| last180d | 2026-05-20 | 2 | 52 | 37 | 21 | 14 | 104 |
-| 360d | 2025-11-21 | 4 | 137 | 48 | 59 | 34 | 289 |
-| last720d | 2024-11-26 | 6 | 243 | 67 | 126 | 70 | 780 |
+| 30d | 2026-10-20 | 0 | 2 | 13 | 2 | 4 | 4 |
+| last60d | 2026-09-20 | 0 | 5 | 18 | 4 | 7 | 13 |
+| 90d | 2026-08-21 | 0 | 22 | 24 | 9 | 10 | 40 |
+| last180d | 2026-05-23 | 2 | 52 | 39 | 22 | 14 | 104 |
+| 360d | 2025-11-24 | 4 | 135 | 50 | 60 | 34 | 289 |
+| last720d | 2024-11-29 | 6 | 243 | 69 | 127 | 70 | 780 |
 
 ## Release 资产
 
@@ -74,7 +74,7 @@ x install htop
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/htop) 上共有 **179** 个发行版报告此项目。**65** 个 ✅ 已是最新上游版本，**96** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/htop) 上共有 **179** 个发行版报告此项目。**66** 个 ✅ 已是最新上游版本，**95** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -84,7 +84,7 @@ x install htop
 | Ubuntu 26.04 LTS | `3.4.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `3.3.0` | ⚠️ outdated |
 | Arch | `3.5.3` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `3.5.3` | ✅ latest |
 | Fedora rawhide | `3.5.3` | ✅ latest |
 | Nix unstable | `3.5.3` | ✅ latest |
 | Void | `3.5.3` | ✅ latest |
@@ -100,4 +100,4 @@ htop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:28:03Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:21:58Z._
