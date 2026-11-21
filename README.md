@@ -14,11 +14,11 @@ x install htop
 
 ## Code insight
 
-Total: **39,401** lines of code across **287** files in the top 5 languages.
+Total: **39,402** lines of code across **287** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 31,939 | 2,426 | 6,249 | 132 |
+| C | 31,940 | 2,426 | 6,250 | 132 |
 | CHeader | 4,959 | 1,262 | 2,115 | 151 |
 | Autoconf | 1,100 | 0 | 17 | 2 |
 | Lua | 607 | 13 | 67 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.5.3` (2026-08-16)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 8,462 · **Forks**: 665 · **Open issues**: 857 · **Contributors**: 250
+- **Stars**: 8,466 · **Forks**: 665 · **Open issues**: 857 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 972 · **Open PRs**: 103 · **Closed issues**: 587 · **Open issues**: 270 · **Commits**: 3967
+- **Releases**: 22 · **Merged PRs**: 973 · **Open PRs**: 102 · **Closed issues**: 588 · **Open issues**: 269 · **Commits**: 3969
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 2 | 13 | 1 | 4 | 4 |
-| last60d | 2026-09-21 | 0 | 5 | 18 | 4 | 7 | 13 |
-| 90d | 2026-08-22 | 0 | 21 | 24 | 9 | 10 | 40 |
-| last180d | 2026-05-24 | 2 | 51 | 39 | 22 | 14 | 104 |
-| 360d | 2025-11-25 | 4 | 135 | 50 | 60 | 34 | 289 |
-| last720d | 2024-11-30 | 6 | 243 | 69 | 127 | 70 | 780 |
+| 30d | 2026-10-22 | 0 | 3 | 12 | 1 | 4 | 5 |
+| last60d | 2026-09-22 | 0 | 6 | 16 | 4 | 7 | 14 |
+| 90d | 2026-08-23 | 0 | 21 | 22 | 8 | 8 | 41 |
+| last180d | 2026-05-25 | 2 | 51 | 38 | 22 | 14 | 105 |
+| 360d | 2025-11-26 | 4 | 136 | 49 | 60 | 34 | 290 |
+| last720d | 2024-12-01 | 6 | 244 | 68 | 127 | 70 | 782 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **179** distros on [repology.org](https://repology.org/project/htop). **66** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
+Reported by **178** distros on [repology.org](https://repology.org/project/htop). **66** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:47:57Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T09:06:35Z._
