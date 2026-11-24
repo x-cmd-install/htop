@@ -24,16 +24,6 @@ Total: **39,402** lines of code across **287** files in the top 5 languages.
 | Lua | 607 | 13 | 67 | 1 |
 | Automake | 475 | 19 | 54 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.3 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/htop-dev/htop>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,470 · **Forks**: 666 · **Open issues**: 857 · **Contributors**: 250
+- **Stars**: 8,473 · **Forks**: 665 · **Open issues**: 862 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 973 · **Open PRs**: 102 · **Closed issues**: 588 · **Open issues**: 269 · **Commits**: 3969
+- **Releases**: 22 · **Merged PRs**: 973 · **Open PRs**: 102 · **Closed issues**: 588 · **Open issues**: 274 · **Commits**: 3969
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 3 | 11 | 1 | 4 | 3 |
-| last60d | 2026-09-24 | 0 | 6 | 16 | 4 | 7 | 12 |
-| 90d | 2026-08-25 | 0 | 21 | 22 | 7 | 8 | 33 |
-| last180d | 2026-05-27 | 2 | 50 | 37 | 22 | 14 | 95 |
-| 360d | 2025-11-28 | 4 | 134 | 49 | 60 | 33 | 279 |
-| last720d | 2024-12-03 | 6 | 244 | 68 | 126 | 70 | 782 |
+| 30d | 2026-10-25 | 0 | 1 | 10 | 1 | 9 | 3 |
+| last60d | 2026-09-25 | 0 | 6 | 16 | 4 | 12 | 12 |
+| 90d | 2026-08-26 | 0 | 21 | 22 | 7 | 13 | 33 |
+| last180d | 2026-05-28 | 2 | 50 | 37 | 22 | 19 | 95 |
+| 360d | 2025-11-29 | 4 | 133 | 49 | 60 | 38 | 279 |
+| last720d | 2024-12-04 | 6 | 243 | 68 | 126 | 75 | 782 |
 
 ## Release assets
 
@@ -100,4 +90,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:45:43Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:48:01Z._
