@@ -38,22 +38,22 @@ Total: **39,402** lines of code across **287** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,479 · **Forks**: 668 · **Open issues**: 862 · **Contributors**: 250
+- **Stars**: 8,483 · **Forks**: 670 · **Open issues**: 862 · **Contributors**: 250
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 973 · **Open PRs**: 107 · **Closed issues**: 588 · **Open issues**: 274 · **Commits**: 3969
+- **Releases**: 22 · **Merged PRs**: 973 · **Open PRs**: 108 · **Closed issues**: 588 · **Open issues**: 274 · **Commits**: 3969
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 15 | 1 | 9 | 3 |
-| last60d | 2026-09-28 | 0 | 5 | 21 | 4 | 12 | 12 |
-| 90d | 2026-08-29 | 0 | 20 | 26 | 7 | 13 | 33 |
-| last180d | 2026-05-31 | 2 | 47 | 42 | 19 | 19 | 95 |
-| 360d | 2025-12-02 | 4 | 130 | 54 | 60 | 38 | 279 |
-| last720d | 2024-12-07 | 6 | 243 | 73 | 126 | 75 | 782 |
+| 30d | 2026-10-29 | 0 | 1 | 16 | 1 | 8 | 3 |
+| last60d | 2026-09-29 | 0 | 5 | 22 | 4 | 11 | 12 |
+| 90d | 2026-08-30 | 0 | 16 | 27 | 6 | 13 | 33 |
+| last180d | 2026-06-01 | 2 | 46 | 43 | 19 | 19 | 95 |
+| 360d | 2025-12-03 | 4 | 130 | 55 | 60 | 38 | 279 |
+| last720d | 2024-12-08 | 6 | 243 | 74 | 126 | 75 | 782 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for htop lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:41:37Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:25:02Z._
